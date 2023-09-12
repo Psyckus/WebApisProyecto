@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Negocio.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Negocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Datos.dll
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Entidad.dll
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Datos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Datos.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Entidad.pdb
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Capa_Entidad.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\bin\Release\Newtonsoft.Json.xml
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\obj\Release\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\obj\Release\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\obj\Release\Capa_Negocio.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\obj\Release\Capa_Negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\PublicarC#\New folder\WebApi-main\WebApi-main\Capa_Negocio\obj\Release\Capa_Negocio.pdb
